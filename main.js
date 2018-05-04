@@ -1,5 +1,5 @@
 
-const speed = 2000;
+const speed = 5000;
 let interval;
 let teams = [];
 let team = [];
