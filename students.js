@@ -1,0 +1,61 @@
+let students = [
+    {
+        name:"JoseLuis",
+        pic:"assets/jose.jpg"
+    },
+    {
+        name:"Alberto",
+        pic:"assets/beto.jpg"
+    },
+    {
+        name:"FAlone",
+        pic:"assets/manon.png"
+    },
+    {
+        name:"Rene",
+        pic:"assets/rene.jpg"
+    },
+    {
+        name:"Harland",
+        pic:"assets/harland.jpg"
+    },
+    {
+        name:"Alina",
+        pic:"assets/alina.jpg"
+    },
+    {
+        name:"Jiampa",
+        pic:"assets/jampa.jpg"
+    },
+    {
+        name:"Fer",
+        pic:"assets/fer.jpg"
+    },
+    {
+        name:"Hugo",
+        pic:"assets/hugo.jpg"
+    },
+    {
+        name:"Franco",
+        pic:"assets/franco.jpg"
+    },
+    {
+        name:"Max",
+        pic:"assets/max.jpg"
+    },
+    {
+        name:"Alex",
+        pic:"assets/alex.jpg"
+    },
+    {
+        name:"German",
+        pic:"assets/german.jpg"
+    },
+    {
+        name:"Diego",
+        pic:"assets/diego.jpg"
+    },
+    
+];
+
+const respaldo = JSON.stringify(students);

@@ -1,0 +1,75 @@
+.body{
+
+    background-image: url('assets/ironhack.jpg');
+    background-size: contain; 
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.overlay{
+    display: flex;
+    background-color: rgba(255,255,255,0.5);
+}
+
+.container{
+    width:100vw;
+    height: 100%;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.container button{
+    height: 50px;
+    width: 100px;
+}
+
+.cuadricula{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    padding-top: 10px;
+    perspective: 800px;
+}
+
+.cover{
+    min-width:150px;
+    height: 100px;
+    background-color: #000;
+    margin:10px;
+    cursor: pointer;
+    border-radius: 10px;
+    color:white; 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    transition:all 2s ease;
+}
+
+/* teams */
+.teams{
+    width:800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 500px;
+}
+
+.team{
+    background-color: transparent;
+    margin-top:20px;
+    text-align: center;
+    margin-right: 10px;
+    max-height: 150px;
+}
+
+.team img{
+    width:100px;
+}
+
+.flip{
+    transform: rotateY(360deg);
+    /*backface-visibility: hidden;*/
+    
+}
+
+
