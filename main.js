@@ -4,7 +4,7 @@ let interval;
 let teams = [];
 let team = [];
 //const mp3 = new Audio();
-const mp3 = document.createElement('audio');
+let mp3 = document.createElement('audio');
 mp3.src="assets/fail.mp3";
 //mp3.src="assets/im.mp3";
 mp3.loop = true;
@@ -104,7 +104,9 @@ function reset(){
 }
 
 function allClear(){
-    mp3.pause();
+    mp3 = new Audio();
+    mp3.src="assets/fail.mp3";
+    mp3.loop = true;
     teams = [];
     $('.teams').removeClass("animated pulse infinite");
     showTeams();
