@@ -74,6 +74,10 @@ let students = [
     {
         name: "Sepa",
         pic: "assets/Sepa.JPG"
+    },
+    {
+        name: "Forever A.",
+        pic: "assets/ironhack.jpg"
     }
     
 ];
