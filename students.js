@@ -1,60 +1,80 @@
 let students = [
     {
-        name:"JoseLuis",
-        pic:"assets/jose.jpg"
+        name:"Adan",
+        pic:"assets/Adan.JPG"
     },
     {
-        name:"Alberto",
-        pic:"assets/beto.jpg"
+        name:"Adi",
+        pic:"assets/Adi.JPG"
     },
     {
-        name:"FAlone",
-        pic:"assets/manon.png"
+        name:"Andrew",
+        pic:"assets/Andrew.JPG"
     },
     {
-        name:"Rene",
-        pic:"assets/rene.jpg"
+        name:"Beto",
+        pic:"assets/Beto.JPG"
     },
     {
-        name:"Harland",
-        pic:"assets/harland.jpg"
+        name:"Carlos",
+        pic:"assets/Carlos.JPG"
     },
     {
-        name:"Alina",
-        pic:"assets/alina.jpg"
+        name:"Christo",
+        pic:"assets/Christo.JPG"
     },
     {
-        name:"Jiampa",
-        pic:"assets/jampa.jpg"
+        name:"Christofer",
+        pic:"assets/Christofer.JPG"
     },
     {
-        name:"Fer",
-        pic:"assets/fer.jpg"
+        name:"Ilham",
+        pic:"assets/Ilham.JPG"
     },
     {
-        name:"Hugo",
-        pic:"assets/hugo.jpg"
+        name:"Irving",
+        pic:"assets/Irving.JPG"
     },
     {
-        name:"Franco",
-        pic:"assets/franco.jpg"
+        name:"Jhosep",
+        pic:"assets/Jhosep.JPG"
     },
     {
-        name:"Max",
-        pic:"assets/max.jpg"
+        name:"Jordy",
+        pic:"assets/Jordy.JPG"
     },
     {
-        name:"Alex",
-        pic:"assets/alex.jpg"
+        name: "Jose",
+        pic: "assets/Jose.JPG"
     },
     {
-        name:"German",
-        pic:"assets/german.jpg"
+        name: "Josep",
+        pic: "assets/Josep.JPG"
     },
     {
-        name:"Diego",
-        pic:"assets/diego.jpg"
+        name: "Luther",
+        pic: "assets/Lther.JPG"
     },
+    {
+        name: "Mishel",
+        pic: "assets/Mishel.JPG"
+    },
+    {
+        name: "Omar",
+        pic: "assets/Omar.JPG"
+    },
+    {
+        name: "Perla",
+        pic: "assets/Perla.JPG"
+    },
+    {
+        name: "Sarai",
+        pic: "assets/Sarai.JPG"
+    },
+    {
+        name: "Sepa",
+        pic: "assets/Sepa.JPG"
+    }
     
 ];
 
