@@ -12,16 +12,16 @@ let students = [
         pic:"assets/Andrew.JPG"
     },
     {
-        name:"Pedro",
-        pic:"assets/Pedro.JPG"
+        name:"Cris",
+        pic:"assets/Cris.JPG"
     },
     {
-        name:"Carlos",
-        pic:"assets/Carlos.JPG"
+        name:"Jorge",
+        pic:"assets/Jorge.JPG"
     },
     {
-        name:"Christo",
-        pic:"assets/Christo.JPG"
+        name:"Amel",
+        pic:"assets/Amel.JPG"
     },
     {
         name:"Christofer",
@@ -36,24 +36,24 @@ let students = [
         pic:"assets/Irving.JPG"
     },
     {
-        name:"Jhosep",
-        pic:"assets/Jhosep.JPG"
+        name:"Joseph",
+        pic:"assets/Joseph.JPG"
     },
     {
         name:"Jordy",
         pic:"assets/Jordy.JPG"
     },
     {
-        name: "Jose",
-        pic: "assets/Jose.JPG"
+        name: "Eliot",
+        pic: "assets/Eliot.JPG"
     },
     {
-        name: "Josep",
-        pic: "assets/Josep.JPG"
+        name: "Francisco",
+        pic: "assets/Francisco.JPG"
     },
     {
         name: "Luther",
-        pic: "assets/Lther.JPG"
+        pic: "assets/Luther.JPG"
     },
     {
         name: "Mishel",
@@ -72,11 +72,11 @@ let students = [
         pic: "assets/Sarai.JPG"
     },
     {
-        name: "Sepa",
-        pic: "assets/Sepa.JPG"
+        name: "Daniel",
+        pic: "assets/Daniel.JPG"
     },
     {
-        name: "Forever A.",
+        name: "ForeverA",
         pic: "assets/ironhack.jpg"
     }
     
