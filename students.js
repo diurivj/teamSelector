@@ -12,8 +12,8 @@ let students = [
         pic:"assets/Andrew.JPG"
     },
     {
-        name:"Beto",
-        pic:"assets/Beto.JPG"
+        name:"Pedro",
+        pic:"assets/Pedro.JPG"
     },
     {
         name:"Carlos",
