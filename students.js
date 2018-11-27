@@ -1,84 +1,76 @@
 let students = [
     {
-        name:"Adan",
-        pic:"assets/Adan.JPG"
+        name:"carlos",
+        pic:"assets/carlos.JPG"
     },
     {
-        name:"Adi",
-        pic:"assets/Adi.JPG"
+        name:"fermin",
+        pic:"assets/fermin.JPG"
     },
     {
-        name:"Andrew",
-        pic:"assets/Andrew.JPG"
+        name:"gabriel",
+        pic:"assets/gabriel.JPG"
     },
     {
-        name:"Cris",
-        pic:"assets/Cris.JPG"
+        name:"gerardo",
+        pic:"assets/gerardo.JPG"
     },
     {
-        name:"Jorge",
-        pic:"assets/Jorge.JPG"
+        name:"mefit",
+        pic:"assets/mefit.JPG"
     },
     {
-        name:"Amel",
-        pic:"assets/Amel.JPG"
+        name:"miguel",
+        pic:"assets/miguel.JPG"
     },
     {
-        name:"Christofer",
-        pic:"assets/Christofer.JPG"
+        name:"mike",
+        pic:"assets/mike.JPG"
     },
     {
-        name:"Ilham",
-        pic:"assets/Ilham.JPG"
+        name:"montse",
+        pic:"assets/montse.JPG"
     },
     {
-        name:"Irving",
-        pic:"assets/Irving.JPG"
+        name:"omar_zagal",
+        pic:"assets/omar_zagal.JPG"
     },
     {
-        name:"Joseph",
-        pic:"assets/Joseph.JPG"
+        name:"omar",
+        pic:"assets/omar.JPG"
     },
     {
-        name:"Jordy",
-        pic:"assets/Jordy.JPG"
+        name:"pilar",
+        pic:"assets/pilar.JPG"
     },
     {
-        name: "Eliot",
-        pic: "assets/Eliot.JPG"
+        name: "rene",
+        pic: "assets/rene.JPG"
     },
     {
-        name: "Francisco",
-        pic: "assets/Francisco.JPG"
+        name: "sabas",
+        pic: "assets/sabas.JPG"
     },
     {
-        name: "Luther",
-        pic: "assets/Luther.JPG"
+        name: "santiago",
+        pic: "assets/santiago.JPG"
     },
     {
-        name: "Mishel",
-        pic: "assets/Mishel.JPG"
+        name: "rodrigo",
+        pic: "assets/rodrigo.jpeg"
     },
     {
-        name: "Omar",
-        pic: "assets/Omar.JPG"
+        name: "javier",
+        pic: "assets/javier.jpeg"
     },
     {
-        name: "Perla",
-        pic: "assets/Perla.JPG"
+        name: "diego",
+        pic: "assets/diego.jpg"
     },
     {
-        name: "Sarai",
-        pic: "assets/Sarai.JPG"
-    },
-    {
-        name: "Daniel",
-        pic: "assets/Daniel.JPG"
-    },
-    {
-        name: "ForeverA",
-        pic: "assets/ironhack.jpg"
-    }
+        name: "fernando",
+        pic: "assets/fernando.png"
+    },    
     
 ];
 
