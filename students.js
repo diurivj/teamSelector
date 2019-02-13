@@ -12,7 +12,7 @@ let students = [
     pic: 'assets/carlos1.jpg',
   },
   {
-    name: 'Carlos A',
+    name: 'CarlosA',
     pic: 'assets/carlosa.jpg',
   },
   {
@@ -44,7 +44,7 @@ let students = [
     pic: 'assets/sebas.jpg',
   },
   {
-    name: 'Forever Alone',
+    name: 'ForeverAlone',
     pic: 'assets/forever-alone.jpeg'
   }
 ]
