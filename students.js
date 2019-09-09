@@ -1,77 +1,100 @@
-let students = [
-    {
-        name:"carlos",
-        pic:"assets/carlos.JPG"
-    },
-    {
-        name:"fermin",
-        pic:"assets/fermin.JPG"
-    },
-    {
-        name:"gabriel",
-        pic:"assets/gabriel.JPG"
-    },
-    {
-        name:"gerardo",
-        pic:"assets/gerardo.JPG"
-    },
-    {
-        name:"mefit",
-        pic:"assets/mefit.JPG"
-    },
-    {
-        name:"miguel",
-        pic:"assets/miguel.JPG"
-    },
-    {
-        name:"mike",
-        pic:"assets/mike.JPG"
-    },
-    {
-        name:"montse",
-        pic:"assets/montse.JPG"
-    },
-    {
-        name:"omar_zagal",
-        pic:"assets/omar_zagal.JPG"
-    },
-    {
-        name:"omar",
-        pic:"assets/omar.JPG"
-    },
-    {
-        name:"pilar",
-        pic:"assets/pilar.JPG"
-    },
-    {
-        name: "rene",
-        pic: "assets/rene.JPG"
-    },
-    {
-        name: "sabas",
-        pic: "assets/sabas.JPG"
-    },
-    {
-        name: "santiago",
-        pic: "assets/santiago.JPG"
-    },
-    {
-        name: "rodrigo",
-        pic: "assets/rodrigo.jpeg"
-    },
-    {
-        name: "javier",
-        pic: "assets/javier.jpeg"
-    },
-    {
-        name: "diego",
-        pic: "assets/diego.jpg"
-    },
-    {
-        name: "fernando",
-        pic: "assets/fernando.png"
-    },    
-    
+const students = [
+  {
+    name: 'Raul',
+    pic: 'assets/1.jpg'
+  },
+  {
+    name: 'Elisa',
+    pic: 'assets/2.jpg'
+  },
+  {
+    name: 'Otto',
+    pic: 'assets/3.jpg'
+  },
+  {
+    name: 'Cesar',
+    pic: 'assets/4.jpg'
+  },
+  {
+    name: 'Chavero',
+    pic: 'assets/5.jpg'
+  },
+  {
+    name: 'Imanol',
+    pic: 'assets/6.jpg'
+  },
+  {
+    name: 'Ivan',
+    pic: 'assets/7.jpg'
+  },
+  {
+    name: 'Karina',
+    pic: 'assets/8.jpg'
+  },
+  {
+    name: 'Larry',
+    pic: 'assets/9.jpg'
+  },
+  {
+    name: 'Xavier',
+    pic: 'assets/10.jpg'
+  },
+  {
+    name: 'Oscar',
+    pic: 'assets/11.jpg'
+  },
+  {
+    name: 'Dulce',
+    pic: 'assets/12.jpg'
+  },
+  {
+    name: 'Paulina',
+    pic: 'assets/13.jpg'
+  },
+  {
+    name: 'Cristopher',
+    pic: 'assets/14.jpg'
+  },
+  {
+    name: 'Lara',
+    pic: 'assets/15.jpg'
+  },
+  {
+    name: 'Tania',
+    pic: 'assets/16.jpg'
+  },
+  {
+    name: 'Andres',
+    pic: 'assets/17.jpg'
+  },
+  {
+    name: 'Juan',
+    pic: 'assets/18.jpg'
+  },
+  {
+    name: 'Gisella',
+    pic: 'assets/19.jpg'
+  },
+  {
+    name: 'Elias',
+    pic: 'assets/20.jpg'
+  },
+  {
+    name: 'Dan',
+    pic: 'assets/21.jpg'
+  },
+  {
+    name: 'Emiliano',
+    pic: 'assets/22.jpg'
+  },
+  {
+    name: 'Jesus',
+    pic: 'assets/23.jpg'
+  },
+  {
+    name: 'Guilhe',
+    pic: 'assets/24.jpg'
+  }
 ];
 
 const respaldo = JSON.stringify(students);
